@@ -3,9 +3,7 @@
 This is code to convert the author annotated version of Vernor Vinge's novel "A
 Fire Upon the Deep" from the original RTF to readable HTML.
 
-This is not my own work, but is based on the following gist:
-
-https://gist.githubusercontent.com/bocajnotnef/f3f43acc065a2a1a4dd433b8eace3f2b/raw/8e30c2d4be6b145d8b0ec030c153eef18068223a/instructions.md
+This is not my own work, but is based on the following [gist](https://gist.github.com/bocajnotnef/f3f43acc065a2a1a4dd433b8eace3f2b)
 
 I had some problems making it work on my Fedora 40 system.
 
