@@ -20,4 +20,7 @@ The Python script also ran into some problems:
 * The check for the presence of substrings in class names wasn't working
   properly, and a `str()` call fixed that.
 
+* Some paragraphs became div for some reason, so turn them back into proper
+  `p`
+  
 See `instructions.md` for the original instructions on how to run this.

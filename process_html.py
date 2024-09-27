@@ -57,6 +57,8 @@ with open(args.inputFile, "r") as the_file:
                 new_sidenote_tag.append(soup.new_tag("br"))
         else:
             #print("default", child['class'])
+            if child.name == "div":
+                child.name = "p"
             cleaned_body_text.append(child)
 
 
